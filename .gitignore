@@ -1,0 +1,5 @@
+# Arquivos temporários e configurações locais
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
