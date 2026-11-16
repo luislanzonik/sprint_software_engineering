@@ -4,7 +4,7 @@ Projeto acadêmico da FIAP para o Sentinela Nuclear Challenge (AMAZUL).
 
 ## Documento de Visão
 
-O Documento de Visão da Sprint 1 está disponível em [`docs/Sentinela_Documento_de_Visao_Sprint1.pdf`](docs/Sentinela_Documento_de_Visao_Sprint1.pdf).
+O Documento de Visão da Sprint 1 está disponível em [`Sentinela_Documento_de_Visao_Sprint1.pdf`](Sentinela_Documento_de_Visao_Sprint1.pdf).
 
 ## Repositório
 
